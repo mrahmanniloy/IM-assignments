@@ -16,6 +16,6 @@ After plotting these equations with the given input, we obtain a graphical repre
 
 The lower part of the graph is a zoomed version of the whole plot. The upper part has the cubic and polynomial equation plotted as they have the higher range of time complexity.
 
-It is clearly visible that the value of theta increases at the minimum rate in case of the logarithmic equation. Thus, the logarithmic equation has the least time complexity during the worst case scenario, which is when the value of n is maximum.For example, the logarithmic time complexity is when n = 7. On the other hand, the value of theta increases at different exponential rates in case of the other four equations. These four equations has very large time complexity during the worst case scenario. For example, the polynomial time complexity is 2401 when n = 7.
+It is clearly visible that the runtime increases at the minimum rate in case of the logarithmic equation. Thus, the logarithmic equation has the least time complexity during the worst case scenario, which is when the value of n is maximum.For example, the logarithmic time complexity is 2.81 when n = 7. On the other hand, the value of theta increases at different exponential rates in case of the other four equations. These four equations has very large time complexity during the worst case scenario. For example, the polynomial time complexity is 2401 when n = 7.
 
 Therefore, we can conclude that the logarithmic equation of time complexity is the best among the given five equations.
